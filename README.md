@@ -29,3 +29,5 @@ How we can improve :
 5. Implement strong access controls
 6. Monitor the system
 7. Encrypt data
+
+THANK YOU!
